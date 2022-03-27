@@ -1,2 +1,2 @@
 # PicBed
-This is my PicBed with github，use PicGo to upload picture.
+This is a PicBed with GitHub, use PicGo to upload picture.
